@@ -11,7 +11,7 @@
    7.Implement Library System <br>
 
 ***Execute Following Commands in command prompt <br>
-**step 1**
+   **step 1**
 1. Create folder command: <br>
 ```mkdir library```        <br>
 **step 2**
@@ -25,6 +25,6 @@
 **step 5:** Install Pre-requirements <br>
 ```pip install -r requirements.txt```
 - Create ```.gitignore``` file <br>
-**step 6:**    6. Add Virtual environment name to .gitignorefile
+**step 6:**    6. Add Virtual environment name to .gitignorefile <br>
 **step 7:** Implement Library Management system 
 
